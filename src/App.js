@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { GoLocation } from 'react-icons/go';
 
 import Config from './environment/Config';
-import './App.css';
+import './assets/css/App.css';
 
 const App = () => {
     const [input, setInput] = useState("");
