@@ -20,6 +20,7 @@ Nesse projeto, aprendi as principais funcionalidades do React, uma biblioteca do
 
 ## Contato 💬:
 - [Acesse meu LinkedIn](https://www.linkedin.com/in/guilherme-cambi-magarotti-16177522b/)
+- [Acesse o Projeto](https://guimagarotti.github.io/cep-searching/)
 
 ### 🔌 Instalação:
 Clone esse projeto com seu Git Bash, utilizando o comando abaixo:
