@@ -14,14 +14,14 @@
     background-image: linear-gradient(to right, #121212, #212B46);
     
     .title {
-        font-size: 2rem;
+        font-size: 3em;
         color: #fff;
         animation: titleAnimation 2s;
     }
     
     .inputArea {
         background-color: rgba(255, 255, 255, 0.082);
-        padding: 20px;
+        padding: 20px 30px;
         margin: 25px 0;
         border-radius: 8px;
         display: flex;
@@ -29,17 +29,19 @@
         box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.7);
 
         input {
-            padding: 5px;
+            padding: 5px 35px;
+            width: 100%;
             background: transparent;
             border: 1px solid rgba(0, 0, 0, 0.6);
             border-radius: 8px;
-            height: 30px;
+            height: 50px;
             outline: 0;
-            margin-right: 6px;
+            margin-right: 8px;
             color: #fff;
 
             &::placeholder {
                 color: #f1f1f1;
+                font-size: 1rem;
             }
         }
 
@@ -70,14 +72,14 @@
     width: 450px;
     
     h2 {
-        margin: 10px 0;
-        font-size: 1.5rem;
+        margin: 15px 0;
+        font-size: 2rem;
     }
     
     p {
         margin-bottom: 10px;
         font-weight: bold;
-        font-size: 0.8rem;
+        font-size: 1.2rem;
     }
 }
 

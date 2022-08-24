@@ -31,7 +31,7 @@ const App = () => {
 
         <div className="inputArea">
             <input type="text" placeholder="Digite o CEP..." value={input} onChange={(e) => setInput(e.target.value)} />
-            <button className="searchButton" onClick={handleInputChange} ><GoLocation size={25} color='#fff' /></button>
+            <button className="searchButton" onClick={handleInputChange} ><GoLocation size={35} color='#fff' /></button>
         </div>
 
         {Object.keys(data).length > 1 && (
